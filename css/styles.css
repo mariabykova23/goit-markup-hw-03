@@ -47,11 +47,12 @@ ul {
 .header {
   background-color: 1px solid rgba(231, 233, 252, 1);
   border-bottom: 1px solid #e7e9fc;
+  margin: 0 auto;
 }
 
 .container-header {
   display: flex;
-  width: 1528px;
+  width: 1158px;
   padding-left: 15px;
   padding-right:15px;
 }
@@ -89,6 +90,9 @@ ul {
   font-weight: 500;
   letter-spacing: 0.02em;
   color: rgba(46, 47, 66, 1);
+  display: inline-block;
+  padding-top: 24px;
+  padding-bottom: 24px;
   
 }
 
@@ -104,6 +108,9 @@ ul {
   letter-spacing: 0.02em;
   color: inherit;
   font-style: normal;
+  display: inline-block;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .header-navig-menu-item-link:focus,
@@ -121,8 +128,6 @@ ul {
   display: flex;
   align-items: center;
   gap: 40px;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 /* ================================================================ */
