@@ -47,7 +47,6 @@ ul {
 .header {
   background-color: 1px solid rgba(231, 233, 252, 1);
   border-bottom: 1px solid #e7e9fc;
-  margin: 0 auto;
 }
 
 .container-header {
@@ -55,6 +54,7 @@ ul {
   width: 1158px;
   padding-left: 15px;
   padding-right:15px;
+  margin: 0 auto;
 }
 
 .header-navig {
@@ -128,6 +128,10 @@ ul {
   display: flex;
   align-items: center;
   gap: 40px;
+}
+
+.header-wrap-link{
+  
 }
 
 /* ================================================================ */
