@@ -59,8 +59,6 @@ ul {
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .header-navig {
@@ -78,8 +76,8 @@ ul {
   text-transform: uppercase;
   color: #4d5ae5;
   margin-right: 76px;
-  /* padding-top: 24px;
-  padding-bottom: 24px; */
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .header-logo-span {
@@ -90,11 +88,11 @@ ul {
   display: flex;
   text-align: center;
   gap: 40px;
-  /* padding-top: 24px;
-  padding-bottom: 24px; */
 }
 
 .header-navig-menu-item {
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .header-navig-menu-item-link {
@@ -113,8 +111,10 @@ ul {
   display: flex;
   text-align: center;
   gap: 40px;
-  /* padding-top: 24px;
-  padding-bottom: 24px; */
+}
+.header-adress-menu-item {
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .header-adress-menu-link {
