@@ -42,6 +42,7 @@ ul {
   margin-left:150px;
   padding-left: 150px;
   padding-right: 150px;
+  /* outline: 1px red solid; */
 }
 
 /* ================================================================ */
@@ -58,10 +59,7 @@ ul {
   width: 1158px;
   padding-left: 15px;
   padding-right:15px;
-  box-sizing: border-box;
   margin: 0 auto;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .header-navig {
@@ -80,6 +78,8 @@ ul {
   text-transform: uppercase;
   color: #4d5ae5;
   margin-right:76px;
+  padding-top: 24px;
+  padding-bottom: 24px;
   
 }
 
@@ -91,6 +91,8 @@ ul {
   display: flex;
   text-align: center;
   gap:40px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .header-navig-menu-item-link {
@@ -110,6 +112,8 @@ ul {
   display: flex;
   text-align: center;
   gap:40px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .header-adress-menu-link {
@@ -129,10 +133,6 @@ ul {
 .header-adress-menu-link:hover,
 .header-adress-menu-link:focus {
   color: #404bbf;
-}
-
-.header-wrap-link{
-  
 }
 
 /* ================================================================ */
