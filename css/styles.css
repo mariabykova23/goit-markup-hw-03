@@ -65,8 +65,6 @@ ul {
   display: flex;
   align-items: center;
   margin-right: 332px;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .header-navig-logo {
@@ -78,6 +76,8 @@ ul {
   text-transform: uppercase;
   color: #4d5ae5;
   margin-right: 76px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .header-logo-span {
@@ -88,8 +88,6 @@ ul {
   display: flex;
   text-align: center;
   gap: 40px;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .header-navig-menu-item {
@@ -101,6 +99,8 @@ ul {
   letter-spacing: 0.02em;
   color: rgba(46, 47, 66, 1);
   display: inline-block;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .header-adress {
@@ -121,6 +121,8 @@ ul {
   color: inherit;
   font-style: normal;
   display: inline-block;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .header-navig-menu-item-link:focus,
