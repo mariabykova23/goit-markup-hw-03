@@ -88,10 +88,11 @@ ul {
   display: flex;
   text-align: center;
   gap: 40px;
-}
-.header-navig-menu-item {
   padding-top: 24px;
   padding-bottom: 24px;
+}
+
+.header-navig-menu-item {
 }
 
 .header-navig-menu-item-link {
