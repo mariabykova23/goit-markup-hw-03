@@ -41,7 +41,7 @@ ul {
   width: 1128px;
   box-sizing: border-box;
   margin-left:150px;
-  outline: 1px red solid;
+  /* outline: 1px red solid; */
 }
 
 /* ================================================================ */
