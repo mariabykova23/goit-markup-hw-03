@@ -20,8 +20,8 @@ h3 {
 
 img {
   display: block;
-  max-width:100%;
-  height:auto;
+  max-width: 100%;
+  height: auto;
 }
 
 a {
@@ -40,7 +40,7 @@ ul {
 .container {
   width: 1128px;
   box-sizing: border-box;
-  margin-left:150px;
+  margin-left: 150px;
   /* outline: 1px red solid; */
 }
 
@@ -57,7 +57,7 @@ ul {
   align-items: center;
   width: 1158px;
   padding-left: 15px;
-  padding-right:15px;
+  padding-right: 15px;
   margin: 0 auto;
 }
 
@@ -65,7 +65,6 @@ ul {
   display: flex;
   align-items: center;
   margin-right: 332px;
-
 }
 
 .header-navig-logo {
@@ -76,10 +75,9 @@ ul {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  margin-right:76px;
+  margin-right: 76px;
   padding-top: 24px;
   padding-bottom: 24px;
-  
 }
 
 .header-logo-span {
@@ -89,7 +87,9 @@ ul {
 .header-navig-menu {
   display: flex;
   text-align: center;
-  gap:40px;
+  gap: 40px;
+}
+.header-navig-menu-item {
   padding-top: 24px;
   padding-bottom: 24px;
 }
@@ -100,7 +100,6 @@ ul {
   letter-spacing: 0.02em;
   color: rgba(46, 47, 66, 1);
   display: inline-block;
-  
 }
 
 .header-adress {
@@ -110,7 +109,7 @@ ul {
 .header-adress-menu {
   display: flex;
   text-align: center;
-  gap:40px;
+  gap: 40px;
   padding-top: 24px;
   padding-bottom: 24px;
 }
@@ -190,17 +189,17 @@ ul {
   padding-bottom: 120px;
 }
 
-.visually-hidden{
+.visually-hidden {
   position: absolute;
   width: 1px;
-  height:1px;
-  margin:-1px;
-  border:0;
-  padding:0;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
   white-space: nowrap;
   clip-path: inset(100%);
-  clip:rect(0 0 0 0);
-  overflow:hidden;
+  clip: rect(0 0 0 0);
+  overflow: hidden;
 }
 .main-principals-list {
   display: flex;
@@ -209,7 +208,7 @@ ul {
 }
 
 .main-principals-item {
-  width: calc((100% - 72px) / 4); 
+  width: calc((100% - 72px) / 4);
 }
 
 .main-principals-subtitle {
@@ -259,9 +258,9 @@ ul {
   gap: 24px;
 }
 .team-img {
-  display:block;
-  max-width:100%;
-  height:auto;
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
 
 .team-item-wrap {
@@ -278,7 +277,7 @@ ul {
   line-height: 1.2;
   color: rgba(46, 47, 66, 1);
   text-align: center;
-  margin-bottom:8px;
+  margin-bottom: 8px;
 }
 
 .team-member-profession {
@@ -351,7 +350,6 @@ ul {
 }
 
 .container-footer {
-  
 }
 
 .footer-logo {
@@ -363,7 +361,7 @@ ul {
   text-transform: uppercase;
   color: #4d5ae5;
   display: inline-block;
-  margin-bottom:16px;
+  margin-bottom: 16px;
 }
 
 .footer-logo-studio {
